@@ -26,7 +26,7 @@ pytest -v --ff --tb=no test_func_markers.py
 pytest -v --ff --tb=no test_func_fixtures.py
 ```
   
-Запуск тестов с опрделенными маркерами:
+Запуск тестов с определенными маркерами:
 ```pytest -v -m show test_func_markers.py
 pytest -v -m main test_func_markers.py
 pytest -v -m second test_func_markers.py
