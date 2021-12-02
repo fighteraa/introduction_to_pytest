@@ -6,7 +6,7 @@ import pytest
 def load_df():
     return pd.DataFrame(
         [["a", "b"], ["c", "d"], ["e", "s"]],
-        columns=["col 1", "col 2"],
+        columns=["col 1", "col 2"], 
     )
 
 

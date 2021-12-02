@@ -1,4 +1,4 @@
-"""Demo fixture scope."""
+"""Demo fixture scope. """
 
 import pytest
 

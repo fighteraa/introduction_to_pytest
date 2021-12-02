@@ -3,7 +3,7 @@ import numpy as np
 import pytest
 
 
-# Можно указывать много фикстур
+# Можно указывать много фикстур 
 # @pytest.fixture()
 # def load_df():
 #     return pd.DataFrame(
