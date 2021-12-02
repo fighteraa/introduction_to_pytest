@@ -55,5 +55,5 @@ pytest --durations=4 --vv test_func_fixtures.py
 ```
 
 Ссылки:  
-https://habr.com/ru/post/448782/  
-https://docs.pytest.org  
+[Перевод книги Python Testing with pytest](https://habr.com/ru/post/448782/) на Хабре  
+[Официальная документация pytest](https://docs.pytest.org) с подробными описаниями и примерами  
